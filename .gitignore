@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # Added by Christian
-videos/
+videos/*
