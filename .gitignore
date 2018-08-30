@@ -105,5 +105,6 @@ venv.bak/
 
 # Added by Christian
 videos/*
-*.swp*
-*.swp
+*~
+*.sw*
+.*.sw*
